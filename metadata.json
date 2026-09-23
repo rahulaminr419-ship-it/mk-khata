@@ -1,0 +1,6 @@
+{
+  "name": "MK Khata",
+  "description": "Digital khata bookkeeping app for MK Computer Point. Track customer balances, You Get / You Give transactions, due reminders, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
